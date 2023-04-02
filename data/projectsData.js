@@ -75,14 +75,13 @@ export const projectsData = [
 			
 			Technologies: [
 				{
-					title: 'Tools & Technologies',
+					title: 'Services',
 					techs: [
-						'HTML',
-						'CSS',
-						'JavaScript',
-						'Vue.js',
-						'TailwindCSS',
-						'AdobeXD',
+						'delivery',
+						'meetings',
+						'easy pay',
+						'wasy process',
+						
 					],
 				},
 			],
